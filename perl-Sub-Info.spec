@@ -4,7 +4,6 @@
 
 %define	pdir	Sub
 %define	pnam	Info
-%include	/usr/lib/rpm/macros.perl
 Summary:	Sub::Info - Tool for inspecting subroutines
 Summary(pl.UTF-8):	Sub::Info - Narzędzie do sprawdzania podprogramów
 Name:		perl-Sub-Info
