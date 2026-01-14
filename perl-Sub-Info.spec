@@ -8,7 +8,7 @@ Summary:	Sub::Info - Tool for inspecting subroutines
 Summary(pl.UTF-8):	Sub::Info - Narzędzie do sprawdzania podprogramów
 Name:		perl-Sub-Info
 Version:	0.002
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
